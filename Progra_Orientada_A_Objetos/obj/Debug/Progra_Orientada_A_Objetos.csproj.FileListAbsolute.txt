@@ -1,0 +1,7 @@
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\bin\Debug\Progra_Orientada_A_Objetos.exe.config
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\bin\Debug\Progra_Orientada_A_Objetos.exe
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\bin\Debug\Progra_Orientada_A_Objetos.pdb
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\obj\Debug\Progra_Orientada_A_Objetos.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\obj\Debug\Progra_Orientada_A_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\obj\Debug\Progra_Orientada_A_Objetos.exe
+C:\Users\dani_\Documents\C#\Progra_Orientada_A_Objetos\obj\Debug\Progra_Orientada_A_Objetos.pdb

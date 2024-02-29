@@ -1,0 +1,7 @@
+C:\Users\dani_\Documents\C#\while_dowhile_for\bin\Debug\while_dowhile_for.exe.config
+C:\Users\dani_\Documents\C#\while_dowhile_for\bin\Debug\while_dowhile_for.exe
+C:\Users\dani_\Documents\C#\while_dowhile_for\bin\Debug\while_dowhile_for.pdb
+C:\Users\dani_\Documents\C#\while_dowhile_for\obj\Debug\while_dowhile_for.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\C#\while_dowhile_for\obj\Debug\while_dowhile_for.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\C#\while_dowhile_for\obj\Debug\while_dowhile_for.exe
+C:\Users\dani_\Documents\C#\while_dowhile_for\obj\Debug\while_dowhile_for.pdb

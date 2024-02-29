@@ -1,0 +1,7 @@
+C:\Users\dani_\Documents\C#\leer_nombre\bin\Debug\leer_nombre.exe.config
+C:\Users\dani_\Documents\C#\leer_nombre\bin\Debug\leer_nombre.exe
+C:\Users\dani_\Documents\C#\leer_nombre\bin\Debug\leer_nombre.pdb
+C:\Users\dani_\Documents\C#\leer_nombre\obj\Debug\leer_nombre.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\C#\leer_nombre\obj\Debug\leer_nombre.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\C#\leer_nombre\obj\Debug\leer_nombre.exe
+C:\Users\dani_\Documents\C#\leer_nombre\obj\Debug\leer_nombre.pdb
